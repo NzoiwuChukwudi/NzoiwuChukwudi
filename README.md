@@ -6,7 +6,6 @@
 - Pronouns: He/him
 - Hobbies: love cooking and traveling 
 - MSc in Geography with thesis focusing on climate impact on lake morphometry supervised by Prof. J.O. Ayoade.
-- PhD in Hydrology and Water Resources
 <!---
 NzoiwuChukwudi/NzoiwuChukwudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
